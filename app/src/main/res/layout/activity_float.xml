@@ -53,7 +53,7 @@
             style="@style/MenuButtonsSmall"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@mipmap/ic_aspect_ratio_white_24dp"
+            android:src="@mipmap/ic_scan"
             fab:fab_label="扫一扫"
             fab:fab_size="mini" />
 
@@ -62,7 +62,7 @@
             style="@style/MenuButtonsSmall"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@mipmap/ic_mode_edit_white_24dp"
+            android:src="@mipmap/ic_menu_edit"
             fab:fab_label="添加"
             fab:fab_size="mini" />
 
